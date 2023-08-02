@@ -1,0 +1,68 @@
+{
+  "sortedMiddleware": [],
+  "middleware": {},
+  "functions": {
+    "/edgeRouteA/page": {
+      "files": [
+        "server/server-reference-manifest.js",
+        "server/app/edgeRouteA/page_client-reference-manifest.js",
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/app/edgeRouteA/page.js"
+      ],
+      "name": "app/edgeRouteA/page",
+      "page": "/edgeRouteA/page",
+      "matchers": [
+        {
+          "regexp": "^/edgeRouteA$",
+          "originalSource": "/edgeRouteA"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    },
+    "/edgeRouteB/page": {
+      "files": [
+        "server/server-reference-manifest.js",
+        "server/app/edgeRouteB/page_client-reference-manifest.js",
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/app/edgeRouteB/page.js"
+      ],
+      "name": "app/edgeRouteB/page",
+      "page": "/edgeRouteB/page",
+      "matchers": [
+        {
+          "regexp": "^/edgeRouteB$",
+          "originalSource": "/edgeRouteB"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    },
+    "/api/edgeHello/route": {
+      "files": [
+        "server/middleware-build-manifest.js",
+        "server/middleware-react-loadable-manifest.js",
+        "server/next-font-manifest.js",
+        "server/edge-runtime-webpack.js",
+        "server/app/api/edgeHello/route.js"
+      ],
+      "name": "app/api/edgeHello/route",
+      "page": "/api/edgeHello/route",
+      "matchers": [
+        {
+          "regexp": "^/api/edgeHello$",
+          "originalSource": "/api/edgeHello"
+        }
+      ],
+      "wasm": [],
+      "assets": []
+    }
+  },
+  "version": 2
+}

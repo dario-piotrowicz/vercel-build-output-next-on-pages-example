@@ -1,0 +1,17 @@
+{
+  "type": "Prerender",
+  "expiration": false,
+  "sourcePath": "/",
+  "group": 2,
+  "bypassToken": "7128dc5bd874f3589ecd583b4f96bedb",
+  "fallback": {
+    "type": "FileFsRef",
+    "mode": 33188,
+    "fsPath": "index.prerender-fallback.html"
+  },
+  "initialHeaders": {
+    "x-next-cache-tags": "/page",
+    "vary": "RSC, Next-Router-State-Tree, Next-Router-Prefetch"
+  },
+  "allowQuery": []
+}

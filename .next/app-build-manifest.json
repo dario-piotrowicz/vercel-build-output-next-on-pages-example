@@ -1,0 +1,53 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack-2a553ccb29c26bcf.js",
+      "static/chunks/fd9d1056-5fc0659828b82348.js",
+      "static/chunks/596-686cfb59dc1bc447.js",
+      "static/chunks/main-app-852b914475be1513.js",
+      "static/css/6ea270b7079408ce.css",
+      "static/chunks/app/layout-714f48b5b7baa86a.js"
+    ],
+    "/page": [
+      "static/chunks/webpack-2a553ccb29c26bcf.js",
+      "static/chunks/fd9d1056-5fc0659828b82348.js",
+      "static/chunks/596-686cfb59dc1bc447.js",
+      "static/chunks/main-app-852b914475be1513.js",
+      "static/chunks/222-3a33133dc6db0383.js",
+      "static/css/e46ce5b101d356c2.css",
+      "static/chunks/app/page-02d36194e1983eab.js"
+    ],
+    "/nodejsRouteB/page": [
+      "static/chunks/webpack-2a553ccb29c26bcf.js",
+      "static/chunks/fd9d1056-5fc0659828b82348.js",
+      "static/chunks/596-686cfb59dc1bc447.js",
+      "static/chunks/main-app-852b914475be1513.js",
+      "static/chunks/685-0f5f737c30b760f6.js",
+      "static/chunks/app/nodejsRouteB/page-faf4274697fadeb0.js"
+    ],
+    "/nodejsRouteA/page": [
+      "static/chunks/webpack-2a553ccb29c26bcf.js",
+      "static/chunks/fd9d1056-5fc0659828b82348.js",
+      "static/chunks/596-686cfb59dc1bc447.js",
+      "static/chunks/main-app-852b914475be1513.js",
+      "static/chunks/685-0f5f737c30b760f6.js",
+      "static/chunks/app/nodejsRouteA/page-ac421d9383ec25a0.js"
+    ],
+    "/edgeRouteA/page": [
+      "static/chunks/webpack-2a553ccb29c26bcf.js",
+      "static/chunks/fd9d1056-5fc0659828b82348.js",
+      "static/chunks/596-686cfb59dc1bc447.js",
+      "static/chunks/main-app-852b914475be1513.js",
+      "static/chunks/685-0f5f737c30b760f6.js",
+      "static/chunks/app/edgeRouteA/page-3ec9f85959f30bee.js"
+    ],
+    "/edgeRouteB/page": [
+      "static/chunks/webpack-2a553ccb29c26bcf.js",
+      "static/chunks/fd9d1056-5fc0659828b82348.js",
+      "static/chunks/596-686cfb59dc1bc447.js",
+      "static/chunks/main-app-852b914475be1513.js",
+      "static/chunks/685-0f5f737c30b760f6.js",
+      "static/chunks/app/edgeRouteB/page-b35946b5b43e2e92.js"
+    ]
+  }
+}

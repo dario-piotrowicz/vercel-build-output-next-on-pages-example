@@ -1,0 +1,10 @@
+{
+  "/edgeRouteA/page": "app/edgeRouteA/page.js",
+  "/edgeRouteB/page": "app/edgeRouteB/page.js",
+  "/api/edgeHello/route": "app/api/edgeHello/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/nodejsRouteB/page": "app/nodejsRouteB/page.js",
+  "/nodejsRouteA/page": "app/nodejsRouteA/page.js",
+  "/api/nodejsHello/route": "app/api/nodejsHello/route.js"
+}
